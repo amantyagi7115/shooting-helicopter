@@ -10,4 +10,6 @@ source virenv/bin/activate or virenv\Scripts\activate(on windows)
 pip install -r requirements.txt
 python final_game.py
 
+OUTPUT:
+
 ![](output.png)
